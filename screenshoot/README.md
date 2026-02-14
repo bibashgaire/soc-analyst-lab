@@ -1,11 +1,11 @@
-# SOC Playbooks
+# Screenshoots
 
-This folder contains SOC-style response playbooks for common alerts.
+This folder contains screenshoots of:
 
-Contents will include:
-- Brute force response
-- Malware alert response
-- Phishing investigation steps
-- Escalation procedures
+- VM Dashboard
+- SIEM Dashboard
+- Alerts
+- Log Views
+- Investigation evidence
 
-These playbooks document standard analyst response workflows.
+These screenshoots provide visual proof of hands-on SOC lab activity.
