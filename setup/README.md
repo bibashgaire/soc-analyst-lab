@@ -2,10 +2,13 @@
 
 This folder documents the installation and configuration of the SOC home lab environment.
 
-Contents will include:
-- Virtual machine setup
-- SIEM installation and configuration
-- Log source configuration
-- Network settings and architecture
+#VM Setup Documentation
 
-This section shows how the lab environment was built from scratch.
+## Kali Linux
+- Name: kali
+- RAM: 4GB
+- CPU: 4 cores
+- Disk: 60GB
+- Network: NAT
+
+  System is successfully installed and tested with internet connectivity. Screenshoots are available in /screenshoot folder
